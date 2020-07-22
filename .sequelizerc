@@ -1,6 +1,6 @@
 const path = require("path");
 
 module.exports = {
-    config: path.resolve("./api/config", "database.js"),
+    config: path.resolve("./api/config", "config.json"),
     "migrations-path": path.resolve("./api/migrations"),
 };
