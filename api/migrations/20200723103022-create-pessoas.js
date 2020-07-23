@@ -32,7 +32,7 @@ module.exports = {
                 },
             },
             {
-                freezeTableName: true,
+                tableName: "Pessoas",
             }
         );
     },
